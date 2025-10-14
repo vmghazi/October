@@ -7,3 +7,5 @@ def greet(name):
 if __name__ == "__main__":
     print(greet("world"))
     print("This is my first github test")
+"" 
+"print('Git is awsome')" 
